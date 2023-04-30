@@ -1,0 +1,37 @@
+USE [SecimTablo]
+GO
+/****** Object:  Table [dbo].[Table_Prt]    Script Date: 30.04.2023 11:37:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Table_Prt](
+	[ID] [smallint] IDENTITY(1,1) NOT NULL,
+	[ILCEAD] [varchar](20) NULL,
+	[APARTİ] [smallint] NULL,
+	[BPARTİ] [smallint] NULL,
+	[CPARTİ] [smallint] NULL,
+	[DPARTİ] [smallint] NULL,
+	[EPARTİ] [smallint] NULL,
+ CONSTRAINT [PK_Table_Prt] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[Table_Prt] ON 
+GO
+INSERT [dbo].[Table_Prt] ([ID], [ILCEAD], [APARTİ], [BPARTİ], [CPARTİ], [DPARTİ], [EPARTİ]) VALUES (7, N'Sancaktepe', 1, 5, 3, 8, 2)
+GO
+SET IDENTITY_INSERT [dbo].[Table_Prt] OFF
+GO
+ALTER TABLE [dbo].[Table_Prt] ADD  CONSTRAINT [DF_Table_Prt_APARTİ]  DEFAULT ((0)) FOR [APARTİ]
+GO
+ALTER TABLE [dbo].[Table_Prt] ADD  CONSTRAINT [DF_Table_Prt_BPARTİ]  DEFAULT ((0)) FOR [BPARTİ]
+GO
+ALTER TABLE [dbo].[Table_Prt] ADD  CONSTRAINT [DF_Table_Prt_CPARTİ]  DEFAULT ((0)) FOR [CPARTİ]
+GO
+ALTER TABLE [dbo].[Table_Prt] ADD  CONSTRAINT [DF_Table_Prt_DPARTİ]  DEFAULT ((0)) FOR [DPARTİ]
+GO
+ALTER TABLE [dbo].[Table_Prt] ADD  CONSTRAINT [DF_Table_Prt_EPARTİ]  DEFAULT ((0)) FOR [EPARTİ]
+GO

@@ -1,0 +1,10 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\bin\Debug\Seçimİstatistik.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\bin\Debug\Seçimİstatistik.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\bin\Debug\Seçimİstatistik.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Seçimİstatistik\Seçimİstatistik\obj\Debug\Seçimİstatistik.Grafikler.resources
